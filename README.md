@@ -1,9 +1,6 @@
-#LEARNING CODES OF GIT N GITHUB
+# LEARNING ADVANCED CSS
 
-It's a lil difficult to link the remote with the local. BUT I GET IT.
+It's a lil difficult to understand the concept but i'll get all of them.  
 
-Now it's everything all right.
-
-É um pouquinho complicado unir o git remoto e o local. MAS CONSEGUI. 
-
-
+# APRENDENDO CSS AVANÇADO
+É um pouco difícil de entender o conceito, mas eu vou pegar todos eles.
